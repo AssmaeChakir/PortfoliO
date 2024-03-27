@@ -670,6 +670,7 @@ span {
 
     .home-img img {
         width: 56vw;
+        height: auto;
         margin-top: -2rem;
     }
 }
